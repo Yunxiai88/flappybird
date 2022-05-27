@@ -1,0 +1,5 @@
+pygame
+tensorflow==2.6.2
+keras==2.6.0
+tqdm
+opencv-python
